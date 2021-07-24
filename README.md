@@ -1,3 +1,7 @@
+# HH.py
+EDT.py had issues. Implemented this instead
+    https://en.wikipedia.org/wiki/Havel%E2%80%93Hakimi_algorithm
+
 # Erdos-Gallai-theorem
 A python script to test if a list of ints is a valid simple graph via the Erdős–Gallai theorem
 
