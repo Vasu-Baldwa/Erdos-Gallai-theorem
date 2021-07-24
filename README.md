@@ -10,3 +10,4 @@ holds for every k in 1 <= k <= n.
 Ref:
 https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Gallai_theorem
 https://math.stackexchange.com/questions/1974997/confused-about-erdos-gallai-theorem
+https://mathworld.wolfram.com/SimpleGraph.html 
