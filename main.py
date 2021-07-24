@@ -48,7 +48,7 @@ def edt(inputList):
 
 #fail = [3,3,3,1]
 #print(not edt(fail))
-pass1 = [3,2,2,1]
-print(edt(pass1))
+#pass1 = [3,2,2,1]
+#print(edt(pass1))
 #pass2 = [4,3,3,2,2,2]
 #print(edt(pass2))
